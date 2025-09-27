@@ -1,0 +1,483 @@
+{
+    "0": {
+        "cumpleanos": [
+            {
+                "hora_inicio": "09:00:00",
+                "duracion_por_persona": 60
+            },
+            {
+                "hora_inicio": "17:00:00",
+                "duracion_por_persona": 60
+            }
+        ],
+        "anuncios_video": [
+            {
+                "hora_inicio": "09:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "10:30:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "12:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "14:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "16:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "18:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            }
+        ],
+        "pausas_activas": {
+            "pausa_1": [
+                {
+                    "hora_inicio": "09:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "13:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "17:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                }
+            ],
+            "pausa_2": [
+                {
+                    "hora_inicio": "11:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "15:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "19:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                }
+            ]
+        }
+    },
+    "1": {
+        "cumpleanos": [
+            {
+                "hora_inicio": "10:00:00",
+                "duracion_por_persona": 60
+            },
+            {
+                "hora_inicio": "17:00:00",
+                "duracion_por_persona": 60
+            }
+        ],
+        "anuncios_video": [
+            {
+                "hora_inicio": "09:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "10:30:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "12:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "14:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "16:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "18:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            }
+        ],
+        "pausas_activas": {
+            "pausa_1": [
+                {
+                    "hora_inicio": "09:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "13:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "17:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                }
+            ],
+            "pausa_2": [
+                {
+                    "hora_inicio": "11:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "15:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "19:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                }
+            ]
+        }
+    },
+    
+    "2": {
+        "cumpleanos": [
+            {
+                "hora_inicio": "10:00:00",
+                "duracion_por_persona": 60
+            },
+            {
+                "hora_inicio": "17:00:00",
+                "duracion_por_persona": 60
+            }
+        ],
+        "anuncios_video": [
+            {
+                "hora_inicio": "09:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "10:30:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "12:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "14:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "16:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "18:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            }
+        ],
+        "pausas_activas": {
+            "pausa_1": [
+                {
+                    "hora_inicio": "09:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "13:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "17:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                }
+            ],
+            "pausa_2": [
+                {
+                    "hora_inicio": "11:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "15:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "19:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                }
+            ]
+        }
+    },
+    "3": {
+        "cumpleanos": [
+            {
+                "hora_inicio": "12:00:00",
+                "duracion_por_persona": 60
+            },
+            {
+                "hora_inicio": "16:43:00",
+                "duracion_por_persona": 60
+            }
+        ],
+        "anuncios_video": [
+            {
+                "hora_inicio": "16:53:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "10:30:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "12:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "14:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "16:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "18:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            }
+        ],
+        "pausas_activas": {
+            "pausa_1": [
+                {
+                    "hora_inicio": "15:03:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "13:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "17:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                }
+            ],
+            "pausa_2": [
+                {
+                    "hora_inicio": "11:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "15:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "19:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                }
+            ]
+        }
+    },
+    "4": {
+        "cumpleanos": [
+            {
+                "hora_inicio": "9:02:00",
+                "duracion_por_persona": 60
+            },
+            {
+                "hora_inicio": "17:00:00",
+                "duracion_por_persona": 60
+            }
+        ],
+        "anuncios_video": [
+            {
+                "hora_inicio": "9:24:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 10
+            },
+            {
+                "hora_inicio": "10:30:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "12:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "14:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "16:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "18:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            }
+        ],
+        "pausas_activas": {
+            "pausa_1": [
+                {
+                    "hora_inicio": "9:41:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "13:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "17:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                }
+            ],
+            "pausa_2": [
+                {
+                    "hora_inicio": "9:27:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "15:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "19:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                }
+            ]
+        }
+    },
+    "5": {
+        "cumpleanos": [
+            {
+                "hora_inicio": "9:06:00",
+                "duracion_por_persona": 60
+            },
+            {
+                "hora_inicio": "17:00:00",
+                "duracion_por_persona": 60
+            }
+        ],
+        "anuncios_video": [
+            {
+                "hora_inicio": "0:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "10:30:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 60
+            },
+            {
+                "hora_inicio": "12:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "14:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "16:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            },
+            {
+                "hora_inicio": "18:00:00",
+                "archivo": "dGjbt4grjLU",
+                "duracion": 30
+            }
+        ],
+        "pausas_activas": {
+            "pausa_1": [
+                {
+                    "hora_inicio": "9:04:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "13:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "17:30:00",
+                    "archivo": "WfdH9x3C0lg",
+                    "duracion": 60
+                }
+            ],
+            "pausa_2": [
+                {
+                    "hora_inicio": "8:59:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "15:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                },
+                {
+                    "hora_inicio": "19:30:00",
+                    "archivo": "HPdWxMxYp-Q",
+                    "duracion": 60
+                }
+            ]
+        }
+    }
+}
