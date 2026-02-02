@@ -68,7 +68,7 @@ function clearAll() {
     activeFile = null;
 }
 
-function showOverlay(contentId, callback, duracion) {
+function showOverlay(contentId, callback, duracion, isYoutubeVideo = false) {
     if (activeFile === contentId) return;
 
     clearAll();
@@ -83,7 +83,8 @@ function showOverlay(contentId, callback, duracion) {
 
     callback();
 
-    if (duracion) {
+    // Solo establecer timeout si NO es video de YouTube
+    if (duracion && !isYoutubeVideo) {
         currentOverlayTimeout = setTimeout(() => {
             console.log(`Duración de ${contentId} terminada. Cerrando overlay.`);
             clearAll();
@@ -112,6 +113,7 @@ async function playYoutubeVideo(videoId, duracion) {
     const muted = !userInteracted; 
     console.log(`Intentando reproducir video de YouTube con ID: ${videoId}. Muted: ${muted}`);
     
+    // Para videos de YouTube, no usamos el timeout de duración, confiamos en el evento ENDED
     showOverlay(`youtube_${videoId}`, async () => {
         const dynamicContent = document.getElementById("dynamic-content");
         dynamicContent.innerHTML = `<div id="youtube-player" style="width: 100%; height: 100%;"></div>`;
@@ -167,7 +169,7 @@ async function playYoutubeVideo(videoId, duracion) {
             dynamicContent.innerHTML = '<div style="color:red; text-align:center;">Error al cargar el reproductor de YouTube</div>';
             clearAll();
         }
-    }, duracion);
+    }, duracion, true); // El último parámetro indica que es video de YouTube
 }
 
 async function checkEstado() {
